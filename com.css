@@ -1,0 +1,77 @@
+button{
+    width:80px;
+    height:80px;
+    font-size: 30px;
+    margin:0px;
+}
+#b1{
+    position: absolute;
+    left:10px;
+    top:8px;
+}
+#b2{
+    position: absolute;
+    top:95px;
+    left:10px;
+}
+#b3{
+    position: absolute;
+    top:183px;
+    left:10px;
+}
+#b0{
+   position: absolute;
+   left:10px;
+   top:270px;
+}
+#bb1{
+    position: absolute;
+    top:270px;
+    left:95px;
+    width:163px;
+}
+fra{
+   position: absolute;
+   left:262px;
+   top:8px;
+}
+#p1{
+position: absolute;
+left:0px;
+}
+#p2{
+position: absolute;
+left:0px;
+top:88px;
+}
+#p3{
+position: absolute;
+left:0px;
+top: 175px;
+}
+#p4{
+position: absolute;
+left:0px;
+top:263px;
+}
+.capa{
+    position: absolute;
+    align-items: center;
+    top:100px;
+    background-color: rgb(115, 115, 148);
+    width:350px;
+    height:500px;
+}
+#em{
+background-color: darkgray;
+font-size:40px;
+position: absolute;
+left:10px;
+width:320px;
+margin:30px;
+}
+.cc{
+    width:300px;
+    height:200px;
+    background-color: blueviolet;
+}
